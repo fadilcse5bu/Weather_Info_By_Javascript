@@ -1,0 +1,9 @@
+.container {
+  max-width: 400px;
+  text-align: center;
+  border: black 1px solid;
+  margin: 0 auto;
+  background-color: #dbdbdb;
+  font-size: large;
+  color: rgb(0, 0, 0);
+}
